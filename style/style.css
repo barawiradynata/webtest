@@ -4,7 +4,7 @@
     font-family: sans-serif;
 }
 html{
-    background-image: url(../asset/image/bg.jpg);
+    background: rgb(0,0,0);
     height: 100vh;
     background-size: cover;
     background-position: center;
